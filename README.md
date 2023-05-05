@@ -1,2 +1,2 @@
 # GFG_Leetcode_Practice
-Here I will push DSA problems solved by me  on Leetcode and GFG.
+Here I am pushing solutions of DSA problems solved by me  on Leetcode and GFG.
